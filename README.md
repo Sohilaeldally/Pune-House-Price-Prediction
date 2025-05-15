@@ -45,8 +45,6 @@ The dataset contains 13,320 records with 9 features:
 
 ## Requirements
 
-- Python 3.6+
-- Jupyter Notebook
 - Pandas
 - NumPy
 - Matplotlib
