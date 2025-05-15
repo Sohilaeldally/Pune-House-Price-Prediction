@@ -58,12 +58,3 @@ The dataset contains 13,320 records with 9 features:
 2. Install requirements with `pip install -r requirements.txt`
 3. Open and run the Jupyter notebook
 
-## Future Work
-
-- Add predictive modeling for housing prices
-- Incorporate geospatial analysis
-- Expand feature engineering
-
-## License
-
-This project is licensed under the MIT License.
